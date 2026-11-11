@@ -25,7 +25,7 @@ I am Sydney Claire P. Villegas, a second-year Bachelor of Science in Information
 ## Projects
 
 1. School Equipment Borrowing System
-2. Java-Based Parking Management System
+2. Movie Playlist System
 
 ## Author
 
